@@ -337,7 +337,7 @@ Mesh {
    0.000000;0.000000;0.000000;;
    1.000000;1.000000;1.000000;;
    TextureFilename {
-    "C:\\Users\\student\\Documents\\Visual Studio 2015\\Projects\\03_DirectX_cpp\\C++êßçÏ01\\Cpp_001_RockDash\\dcpp_001_ACT\\data\\TEXTURE\\GOAL\\goaltape_all.png";
+    "data\\TEXTURE\\GOAL\\goaltape_all.png";
    }
   }
  }

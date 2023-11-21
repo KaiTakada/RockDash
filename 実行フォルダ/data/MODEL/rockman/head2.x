@@ -1158,7 +1158,7 @@ Mesh {
    0.000000;0.000000;0.000000;;
    0.000000;0.000000;0.000000;;
    TextureFilename {
-    "C:\\Users\\student\\ö‹Æ\\2022ŒãŠú\\3D•\\Œ»‹Zp‡U\\MayaModel\\data\\TEXTURE\\PLAYER\\human_face_use.png";
+    "data\\TEXTURE\\PLAYER\\human_face_use.png";
    }
   }
   Material {
